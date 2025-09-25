@@ -36,6 +36,7 @@ public class main {
             System.out.println("Invalid item price: " + trash);
             System.out.println("Exiting...");
             System.exit(0);
+
         }
 
 
